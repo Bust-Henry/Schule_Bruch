@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bruch.Views
+namespace Bruch
 {
     class UserInterface
     {
